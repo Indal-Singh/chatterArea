@@ -36,6 +36,7 @@ To get ChatRoom up and running on your local machine, follow these installation 
 
 ## Usage
 Start the ChatterArea server:
+    
     ```bash
     npm start
 
@@ -45,6 +46,6 @@ Start the ChatterArea server:
 
 3. Type your message in the input field and press Enter or click the Send button to send a message.
 
-3.Chat messages will appear in real-time in the chat room, and you can interact with other users.
+4. Chat messages will appear in real-time in the chat room, and you can interact with other users.
 
 Enjoy chatting!
