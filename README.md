@@ -28,18 +28,18 @@ To get ChatRoom up and running on your local machine, follow these installation 
 
 1.Navigate to the project directory:
 
-    ```bash
+    
     cd chatterArea
 
 2. Install the project dependencies using npm:
 
-    ```bash
+   
     npm install
 
 ## Usage
 Start the ChatRoom server:
 
-    ```bash
+    
     npm start
 1. Open your web browser and go to http://localhost:3000.
 
