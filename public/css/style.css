@@ -1,0 +1,55 @@
+ /* Custom styles for the chat interface */
+ body {
+    background-color: #282c37; /* Dark background color */
+    color: #ffffff; /* Text color */
+}
+
+.chat-container {
+    padding: 20px;
+    height: 60vh;
+    max-height: 80vh;
+    overflow: auto;
+}
+
+.message {
+    background-color: #2e3342; /* Darker chat message background color */
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    max-width: 400px;
+}
+
+.message.user {
+    background-color: #075e54; /* Green for user messages */
+}
+.message .username
+{
+    font-size: 12px;
+}
+.user-joined
+{
+    display: inline-block;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.input-group-text {
+    background-color: #075e54; /* Green for input group text */
+    border: none;
+    color: #ffffff;
+}
+
+.form-control {
+    background-color: #2e3342; /* Darker input field background color */
+    border: none;
+    color: #ffffff;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+.container
+{
+    max-width: 800px;
+}
