@@ -7,8 +7,6 @@ ChatRoom is a simple group chat application built using Node.js, Express.js, and
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -26,19 +24,21 @@ To get ChatRoom up and running on your local machine, follow these installation 
    ```bash
    git clone https://github.com/Indal-Singh/chatterArea.git
 
- Navigate to the project directory:
+2. Navigate to the project directory:
 
+    ```bash
     cd chatterArea
 
-2. Install the project dependencies using npm:
+3. Install the project dependencies using npm:
 
+    ```bash
     npm install
 
 ## Usage
 Start the ChatRoom server:
 
     npm start
-    
+
 1. Open your web browser and go to http://localhost:3000.
 
 2. Enter your name to join.
